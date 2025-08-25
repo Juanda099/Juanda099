@@ -71,7 +71,7 @@ Me motiva el desarrollo de software y la creación de proyectos que resuelvan pr
 ## 🌐 Conecta conmigo  
 📧 **Correo:** juandayamm@hotmail.com  
 💼 [LinkedIn](https://linkedin.com/in/juan-david-ramirez-calderon-03ab5327a/)  
-🖥️ [Portafolio](https://tuportafolio.com)  
+🖥️ [Portafolio](https://juanda099.github.io/)  
 
 </div>
 
