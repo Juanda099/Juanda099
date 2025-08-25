@@ -1,4 +1,4 @@
-# 👋 Hola, soy Juan David Ramírez Calderón  
+# 👋 Hola, soy Juan David Ramírez Calderón Ingeniero de Software
 
 <img src="https://github.com/user-attachments/assets/19566c2c-c95f-4ed7-8aab-d7455d22881a" alt="img" width="300"/>
 
